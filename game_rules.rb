@@ -18,7 +18,4 @@ class GameRules
       puts "At the end of the day the House always win"
     end
   end
-
-  def player_points(player)
-  end
 end

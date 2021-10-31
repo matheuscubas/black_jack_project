@@ -1,6 +1,7 @@
 require 'card.rb'
 require 'deck.rb'
 require 'players.rb'
+require 'game_rules.rb'
 
 p1 = Player.new
 dealer = Player.new
