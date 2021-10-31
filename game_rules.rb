@@ -20,6 +20,5 @@ class GameRules
   end
 
   def player_points(player)
-
   end
 end
